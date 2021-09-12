@@ -1,3 +1,3 @@
 # BQpython
-BQ udemy course python files
+BQ python files
 This is a test file
